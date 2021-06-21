@@ -9,7 +9,7 @@ e também para ajudar outros iniciantes com as mesmas dificuldades e dúvidas.
 
 <h3> Abordagens: </h3>
 
-+ ArrayList: <p> https://github.com/ArilsonFJS/exercicos-java/blob/master/src/ArrayList/README.md </p>
++ ArrayList: <p> https://github.com/ArilsonFJS/Exercicios_Java/blob/main/src/ArrayList/README.md </p>
 
 + Lista simplesmente encadeada: <p> https://github.com/ArilsonFJS/Exercicios_Java/blob/master/src/ListaSimplesmenteLigada/README.md </p>
 
