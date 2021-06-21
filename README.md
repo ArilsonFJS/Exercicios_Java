@@ -20,3 +20,5 @@ e também para ajudar outros iniciantes com as mesmas dificuldades e dúvidas.
 + Arvore binária : <p> https://github.com/ArilsonFJS/Exercicios_Java/tree/main/src/Arvore </p>
 
 + MergeSort : <p> https://github.com/ArilsonFJS/Exercicios_Java/tree/main/src/MergeSort </p>
+
++ Composição : <p> https://github.com/ArilsonFJS/Exercicios_Java/blob/main/src/Aplica%C3%A7%C3%B5es/README.md </p>
