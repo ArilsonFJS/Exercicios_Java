@@ -1,4 +1,4 @@
-package Aplicações;
+package Aplicacoes;
 
 import Entidades.Departamento;
 import Entidades.Trabalhador;

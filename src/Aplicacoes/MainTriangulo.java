@@ -1,4 +1,4 @@
-package Aplicações;
+package Aplicacoes;
 
 /*
 Este programa le os 3 lados de 2 triangulos diferentes, calcula as areas e mostra qual area é a maior

@@ -1,4 +1,4 @@
-package Aplicações;
+package Aplicacoes;
 
 import Util.Lista;
 import java.util.Scanner;

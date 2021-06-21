@@ -3,7 +3,7 @@
 reais serão pagos pelo os dolares, considerando que a pessoa terá que pagar 6% de IOF
 sobre o valor do dolar.
  */
-package Aplicações;
+package Aplicacoes;
 
 import Entidades.Dolar;
 import java.util.Locale;

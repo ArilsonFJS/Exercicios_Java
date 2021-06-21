@@ -2,7 +2,7 @@
  Ler os valores da largura e altura de um retangulo. Em seguida, mostrar na tela 
 o valor de sua área, perímetro e diagonal.
  */
-package Aplicações;
+package Aplicacoes;
 
 import Entidades.Retangulo;
 import java.util.Locale;

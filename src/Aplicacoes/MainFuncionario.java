@@ -4,7 +4,7 @@ do funcionário (nome e salario liquido). Em seguida, aumentar o salario do func
 com base em uma porcentagem dada (somente o salario bruto serpa afetado pela porcetagem) e mostrar
 novamente os dados do funcionário. 
  */
-package Aplicações;
+package Aplicacoes;
 
 import Entidades.Funcionario;
 import java.util.Locale;

@@ -3,7 +3,7 @@ Realizar o cadastro de uma conta, dando a opção para que seja ou não informad
 o valor inicial de deposito. Em seguida, realizar um deposito e um saque, sempre informando
 os dados da conta após cada operação. 
  */
-package Aplicações;
+package Aplicacoes;
 
 import Entidades.Banco;
 import java.util.Locale;

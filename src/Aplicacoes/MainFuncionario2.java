@@ -6,7 +6,7 @@ Para isso, o programa deve ler um id e o valor X. Se o id informado não existir
 mensagem e abortar a operação. Ao final, mostrar a listagem atualizada dos funcionários,
 conforme exemplos.
  */
-package Aplicações;
+package Aplicacoes;
 
 import Entidades.Funcionario2;
 import java.util.ArrayList;

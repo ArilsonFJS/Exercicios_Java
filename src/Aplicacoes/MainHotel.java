@@ -8,7 +8,7 @@ que seja escolhido um quarto vago. Ao final, seu programa deve imprimir
 um relatório de todas ocupações do pensionato, por ordem de quarto,
 conforme exemplo.
  */
-package Aplicações;
+package Aplicacoes;
 
 import Entidades.Hotel;
 import java.util.Scanner;

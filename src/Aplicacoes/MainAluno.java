@@ -5,7 +5,7 @@ do aluno no ano. Dizer também se o aluno foi aprovado (Passou) ou não (Reprova
 e, em caso negativo, quantos pontos faltam para o aluno obter o minímo para ser
 aprovado (60% da nota).
  */
-package Aplicações;
+package Aplicacoes;
 
 import Entidades.Aluno;
 import java.util.Locale;
