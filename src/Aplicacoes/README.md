@@ -2,7 +2,7 @@
 
 > STATUS: Developing ⚠️
 
-### Main : https://github.com/ArilsonFJS/Exercicios_Java/blob/main/src/Aplica%C3%A7%C3%B5es/MainTrabalhador.java
+### Main : https://github.com/ArilsonFJS/Exercicios_Java/blob/main/src/Aplicacoes/MainTrabalhador.java
 
 ### Entidades
 + Trabalhador : https://github.com/ArilsonFJS/Exercicios_Java/blob/main/src/Entidades/Trabalhador.java
