@@ -1,5 +1,8 @@
 package Aplicações;
 
+import Entidades.Departamento;
+import Entidades.Trabalhador;
+import Enum.NivelTrabalhador;
 import java.util.Locale;
 import java.util.Scanner;
 
@@ -25,6 +28,8 @@ public class MainTrabalhador {
         String nivelTrabalhador = scn.nextLine();
         System.out.print("Salário base: ");
         double salarioBase = scn.nextDouble();
+        
+        Trabalhador trabalhador = new Trabalhador(nomeTrabalhador, NivelTrabalhador.valueOf(nivelTrabalhador), salarioBase, new Departamento(nomeDepartamento));
     }
 
 }
