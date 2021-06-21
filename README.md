@@ -11,12 +11,12 @@ e também para ajudar outros iniciantes com as mesmas dificuldades e dúvidas.
 
 + ArrayList: <p> https://github.com/ArilsonFJS/Exercicios_Java/blob/main/src/ArrayList/README.md </p>
 
-+ Lista simplesmente encadeada: <p> https://github.com/ArilsonFJS/Exercicios_Java/blob/master/src/ListaSimplesmenteLigada/README.md </p>
++ Lista simplesmente encadeada: <p> https://github.com/ArilsonFJS/Exercicios_Java/tree/main/src/ListaSimples </p>
 
-+ Pilha : <p> https://github.com/ArilsonFJS/Exercicios_Java/tree/master/src/Pilha </p>
++ Pilha : <p> https://github.com/ArilsonFJS/Exercicios_Java/tree/main/src/Pilha </p>
 
-+ Fila : <p> https://github.com/ArilsonFJS/Exercicios_Java/blob/master/src/Fila/Fila.java </p>
++ Fila : <p>https://github.com/ArilsonFJS/Exercicios_Java/blob/main/src/Fila/FIla.java </p>
 
-+ Arvore binária : <p> https://github.com/ArilsonFJS/Exercicios_Java/tree/master/src/Arvore </p>
++ Arvore binária : <p> https://github.com/ArilsonFJS/Exercicios_Java/tree/main/src/Arvore </p>
 
-+ MargeSort : <p> https://github.com/ArilsonFJS/Exercicios_Java/tree/master/src/Mergesort </p>
++ MargeSort : <p> https://github.com/ArilsonFJS/Exercicios_Java/tree/main/src/MergeSort </p>
