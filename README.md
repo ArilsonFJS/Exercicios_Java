@@ -19,4 +19,4 @@ e também para ajudar outros iniciantes com as mesmas dificuldades e dúvidas.
 
 + Arvore binária : <p> https://github.com/ArilsonFJS/Exercicios_Java/tree/main/src/Arvore </p>
 
-+ MargeSort : <p> https://github.com/ArilsonFJS/Exercicios_Java/tree/main/src/MergeSort </p>
++ MergeSort : <p> https://github.com/ArilsonFJS/Exercicios_Java/tree/main/src/MergeSort </p>
