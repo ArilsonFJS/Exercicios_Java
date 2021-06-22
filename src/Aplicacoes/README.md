@@ -2,8 +2,9 @@
 
 > STATUS: Developing ⚠️
 
-<b> Recomendação para leitura : </b> 
-https://www.javaprogressivo.net/2012/10/Composicao-em-Java-trocando-informacoes-entre-objetos.html
+Recomendações de leitura : 
++ Java Progressivo: https://www.javaprogressivo.net/2012/10/Composicao-em-Java-trocando-informacoes-entre-objetos.html
++ FACIN PUCRS: https://www.inf.pucrs.br/~flash/programming/aula_compostos_java.html
 
 <hr>
 
