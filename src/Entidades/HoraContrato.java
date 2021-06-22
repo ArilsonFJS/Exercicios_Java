@@ -47,6 +47,6 @@ public class HoraContrato {
 
     //Calcular valor total do contrato
     public double valorTotal(){
-        return valorPorHora * horas;
+        return horas * valorPorHora;
     }
 }
