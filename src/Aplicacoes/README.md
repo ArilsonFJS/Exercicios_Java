@@ -1,11 +1,11 @@
-<h1> COMPOSIÇÃO </h1>
+### COMPOSIÇÃO 
 
 > STATUS: Developing ⚠️
 
-### Recomendação para leitura : 
+Recomendação para leitura : 
 https://www.javaprogressivo.net/2012/10/Composicao-em-Java-trocando-informacoes-entre-objetos.html
 
-### Exemplo
+Exemplo
 
 Main : https://github.com/ArilsonFJS/Exercicios_Java/blob/main/src/Aplicacoes/MainTrabalhador.java
 
