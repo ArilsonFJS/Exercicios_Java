@@ -17,7 +17,8 @@ Entidades
 + HoraContrato: https://github.com/ArilsonFJS/Exercicios_Java/blob/main/src/Entidades/Trabalhador.java
 + Departamento: https://github.com/ArilsonFJS/Exercicios_Java/blob/main/src/Entidades/Departamento.java
 
-Enum: https://github.com/ArilsonFJS/Exercicios_Java/blob/main/src/Enum/NivelTrabalhador.java
+Enum: 
++ Nivelrabalhador: https://github.com/ArilsonFJS/Exercicios_Java/blob/main/src/Enum/NivelTrabalhador.java
 
 <hr>
 
@@ -30,3 +31,16 @@ Entidades
 + Post: https://github.com/ArilsonFJS/Exercicios_Java/blob/main/src/Entidades/Post.java
 
 <hr>
+
+### Exemplo 03
+
+Main: https://github.com/ArilsonFJS/Exercicios_Java/blob/main/src/Aplicacoes/MainPedido.java
+
+Entidades
++ Produto02: https://github.com/ArilsonFJS/Exercicios_Java/blob/main/src/Entidades/Produto02.java
++ Cliente: https://github.com/ArilsonFJS/Exercicios_Java/blob/main/src/Entidades/Cliente.java
++ OrdemPedido: https://github.com/ArilsonFJS/Exercicios_Java/blob/main/src/Entidades/OrdemPedido.java
++ Pedido: https://github.com/ArilsonFJS/Exercicios_Java/blob/main/src/Entidades/Pedido.java
+
+Enum: 
++ StatusPedido: https://github.com/ArilsonFJS/Exercicios_Java/blob/main/src/Enum/StatusPedido.java
