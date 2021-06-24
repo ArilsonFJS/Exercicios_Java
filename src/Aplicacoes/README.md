@@ -44,3 +44,5 @@ Entidades
 
 Enum: 
 + StatusPedido: https://github.com/ArilsonFJS/Exercicios_Java/blob/main/src/Enum/StatusPedido.java
+
+<hr>
