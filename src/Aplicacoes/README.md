@@ -17,7 +17,7 @@ Main: https://github.com/ArilsonFJS/Exercicios_Java/blob/main/src/Aplicacoes/Mai
 
 Entidades
 + Trabalhador: https://github.com/ArilsonFJS/Exercicios_Java/blob/main/src/Entidades/Trabalhador.java
-+ HoraContrato: https://github.com/ArilsonFJS/Exercicios_Java/blob/main/src/Entidades/Trabalhador.java
++ HoraContrato: https://github.com/ArilsonFJS/Exercicios_Java/blob/main/src/Entidades/HoraContrato.java
 + Departamento: https://github.com/ArilsonFJS/Exercicios_Java/blob/main/src/Entidades/Departamento.java
 
 Enum: 
