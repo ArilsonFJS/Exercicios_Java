@@ -1,6 +1,6 @@
 <h1> Exercícios de Java </h1>
 
-> STATUS: Developing ⚠️
+> STATUS: DESENVOLVIMENTO ⚠️
 
 ## Objetivo:
 
