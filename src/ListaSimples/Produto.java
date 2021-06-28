@@ -1,4 +1,4 @@
-package ListaSimplesmenteLigada;
+package ListaSimples;
 
 public class Produto {
 

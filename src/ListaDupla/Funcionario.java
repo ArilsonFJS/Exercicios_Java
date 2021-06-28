@@ -1,4 +1,4 @@
-package ListaDuplamenteLigada;
+package ListaDupla;
 
 public class Funcionario {
     
