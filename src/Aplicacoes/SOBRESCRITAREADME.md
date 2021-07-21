@@ -1,5 +1,7 @@
 ### SOBRESCRITA
 
+⚠️ Este exercício é do curso de Java do professor Nélio Alves. (https://www.udemy.com/course/java-curso-completo/)
+
 <hr>
 
 Uma empresa possui funcionários próprios e terceirizados.
