@@ -7,6 +7,7 @@ Recomendações de leitura :
 + FACIN PUCRS: https://www.inf.pucrs.br/~flash/programming/aula_compostos_java.html
 
 <hr>
+⚠️ Estes exercícios são do curso de Java do professor Nélio Alves. (https://www.udemy.com/course/java-curso-completo/)
 
 ### Exemplo 01
 
