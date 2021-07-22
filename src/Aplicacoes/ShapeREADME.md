@@ -3,7 +3,7 @@
 <hr>
 
 
-⚠️ Este exercício é do curso de Java do professor Nélio Alves. (https://www.udemy.com/course/java-curso-completo/)
+⚠️ Este exercício é do curso de Java do professor Nélio Alves (https://www.udemy.com/course/java-curso-completo/).
 
 ### Exemplo
 
