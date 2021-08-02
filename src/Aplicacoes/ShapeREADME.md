@@ -1,7 +1,12 @@
 ### MÉTODOS ABSTRATOS
 
 <hr>
+Recomendações para leitura:
 
++ Caelum: https://www.caelum.com.br/apostila-java-orientacao-objetos/classes-abstratas#repetindo-mais-codigo
++ Java Progressivo: https://www.javaprogressivo.net/2012/10/Polimorfismo--Classes-abstratas-e-Metodos-abstratos.html
+
+<hr>
 
 ⚠️ Este exercício é do curso de Java do professor Nélio Alves (https://www.udemy.com/course/java-curso-completo/).
 
