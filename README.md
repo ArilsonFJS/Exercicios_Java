@@ -28,3 +28,5 @@ e também para ajudar outros iniciantes com as mesmas dificuldades e dúvidas.
 + Classes Abstratas : <p> https://github.com/ArilsonFJS/Exercicios_Java/blob/main/src/Aplicacoes/AccountREADME.md </p>
 
 + Métodos Abstratos : <p> https://github.com/ArilsonFJS/Exercicios_Java/blob/main/src/Aplicacoes/ShapeREADME.md </p>
+
++ Ler arquivos texto com as classes File e Scanner : <p> </p> 
