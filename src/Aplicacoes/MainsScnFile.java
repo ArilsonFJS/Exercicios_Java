@@ -36,6 +36,7 @@ public class MainsScnFile {
         }finally{
         if(scn != null){
             scn.close();
+            
         }
     }       
  }    
