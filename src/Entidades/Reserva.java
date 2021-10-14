@@ -52,9 +52,9 @@ public class Reserva {
         this.checkIn = checkIn;
         this.checkOut = checkOut;
     }
-    
-   
-    public String toSring(){
+
+    @Override
+    public String toString() {
         return "Room" 
                 + roomNumber
                 + ", check-in: "
