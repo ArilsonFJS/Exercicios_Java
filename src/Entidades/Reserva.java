@@ -1,5 +1,6 @@
 package Entidades;
 
+import excepetions.DomainException;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 import java.util.concurrent.TimeUnit;
@@ -20,7 +21,10 @@ public class Reserva {
     public Reserva() {
     }
 
-    public Reserva(Integer roomNumber, Date checkIn, Date checkOut) {
+    public Reserva(Integer roomNumber, Date checkIn, Date checkOut) throws DomainException {
+          if(!checkOut.after(checkIn)){
+            throw new DomainException("Check-out date must be after check-in date");
+        }
         this.roomNumber = roomNumber;
         this.checkIn = checkIn;
         this.checkOut = checkOut;
@@ -48,7 +52,15 @@ public class Reserva {
         return TimeUnit.DAYS.convert(dif, TimeUnit.MILLISECONDS); // Converte em milisegundos a diferenca entre checkIn e checkOut
     }
     
-    public void updateDates(Date checkIn, Date checkOut){
+    public void updateDates(Date checkIn, Date checkOut) throws DomainException{
+        
+        Date now = new Date();
+        if(checkIn.before(now) || checkOut.before(now)){
+            throw new DomainException("Reservation dates fot update must be future dates");
+        }
+        if(!checkOut.after(checkIn)){
+            throw new DomainException("Check-out date must be after check-in date");
+        }
         this.checkIn = checkIn;
         this.checkOut = checkOut;
     }
