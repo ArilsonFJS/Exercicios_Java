@@ -4,10 +4,9 @@ package Aplicacoes;
  *
  * @author arils
  */
-
-import java.io.File;
+import java.io.BufferedReader;
+import java.io.FileReader;
 import java.io.IOException;
-import java.util.Scanner;
 
 /**
  *
@@ -16,23 +15,31 @@ import java.util.Scanner;
 public class MainsScnFile {
 
     public static void main(String[] args) {
-        
-    File file = new File("caminho do do arquivo");
-    Scanner scn = null;
 
-    
-        try{
-         scn = new Scanner(file);
-        while (scn.hasNextLine()) {
-            System.out.println(scn.nextLine());
+        String path = "C:\\temp\\";
+        BufferedReader br = null;
+        FileReader fr = null;
+        try {
+            fr = new FileReader(path);
+            br = new BufferedReader(fr);
+            String line = br.readLine();
+            while (line != null) {
+                System.out.println(line);
+                line = br.readLine();
             }
-        }catch(IOException e){
+        } catch (IOException e) {
             System.out.println("Error: " + e.getMessage());
-        }finally{
-        if(scn != null){
-            scn.close();
+        } finally {
+            try {
+                if (br != null) {
+                    br.close();
+                }
+                if (fr != null) {
+                    fr.close();
+                }
+            } catch (IOException e) {
+                e.printStackTrace();
+            }
         }
-    }       
-    }    
+    }
 }
-
