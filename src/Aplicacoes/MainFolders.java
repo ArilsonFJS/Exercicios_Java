@@ -41,5 +41,10 @@ public class MainFolders {
         //Criar subpastas 
         boolean success = new File(strPath + "\\subdir").mkdir();
         System.out.println("Directory created successfully: " + success);
+
+        //Acessar Informações dos arquivos
+        System.out.println("getPath: " + path.getPath());
+        System.out.println("getParent: " + path.getParent());
+        System.out.println("getName: " + path.getName());
     }
 }
