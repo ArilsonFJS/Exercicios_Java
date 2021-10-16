@@ -1,5 +1,6 @@
 package model.entidades;
 
+import java.text.SimpleDateFormat;
 import java.util.Date;
 
 /**
@@ -8,6 +9,8 @@ import java.util.Date;
  */
 public class Parcelas {
 
+    private static SimpleDateFormat sdf = new SimpleDateFormat("dd/MM/yyyy");
+    
     private Date dataVencimento;
     private Double valor;
 
@@ -33,6 +36,11 @@ public class Parcelas {
 
     public void setValor(Double valor) {
         this.valor = valor;
+    }
+
+    @Override
+    public String toString() {
+        return sdf.format(dataVencimento)+ " Mensalidade: " + String.format("%.2f", valor);
     }
 
 }

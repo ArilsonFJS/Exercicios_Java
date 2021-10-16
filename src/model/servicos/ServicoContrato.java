@@ -18,15 +18,15 @@ public class ServicoContrato {
 
     private ServicoPagamentoOnline pagamentOnline;
 
-    public ServicoContrato(ServicoPagamentoOnline pagamentOline) {
-        this.pagamentOnline = pagamentOline;
+    public ServicoContrato(ServicoPagamentoOnline pagamentOnline) {
+        this.pagamentOnline = pagamentOnline;
     }
 
     public void processarContrato(Contrato contrato, int meses) {
 
         double valorBasico = contrato.getValorTotal() / meses;
 
-        for (int i = 1; i < meses; i++) {
+        for (int i =1 ; i <= meses; i++) {
             Date date = addMeses(contrato.getDataContrato(), i);
             double pagamentoJuros = valorBasico + pagamentOnline.juros(valorBasico, i);
             double pagamentoTotal = pagamentoJuros + pagamentOnline.pagamento(pagamentoJuros);

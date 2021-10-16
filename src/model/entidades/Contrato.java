@@ -10,7 +10,7 @@ import java.util.List;
  */
 public class Contrato {
 
-    private Integer numeroContrato;
+    private int numeroContrato;
     private Date dataContrato;
     private Double valorTotal;
 
@@ -25,11 +25,11 @@ public class Contrato {
         this.valorTotal = valorTotal;
     }
 
-    public Integer getNumeroContrato() {
+    public int getNumeroContrato() {
         return numeroContrato;
     }
 
-    public void setNumeroContrato(Integer numeroContrato) {
+    public void setNumeroContrato(int numeroContrato) {
         this.numeroContrato = numeroContrato;
     }
 
