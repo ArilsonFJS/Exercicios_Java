@@ -385,13 +385,13 @@ public class MainJogo {
         System.out.println(" A)2,4,3,1,5,6;               B) 3,1,5,6,4,2;");
         posicao = leitor.next();
 
-        if (posicao.equals("A") || posicao.equals("a")) {
+        if (posicao.equalsIgnoreCase("A")) {
             System.out.println("\n===============================");
             System.out.println(" OPÇÃO ERRADA, TENTE NOVAMENTE !");
             System.out.println("===============================\n");
             encontrouBilhete();
 
-        } else if (posicao.equals("B") || posicao.equals("b")) {
+        } else if (posicao.equalsIgnoreCase("B")) {
             System.out.println("Voce conseguiu montar o quebra cabeça: \n");
 
             System.out.println(" ____________________________________________________________");
