@@ -22,7 +22,7 @@ public class MainOrdenaNomes {
     public static void main(String[] args) {
         
         List<Pessoas> list = new ArrayList<>();
-        String path = "C:\\Users\\arils\\OneDrive\\Documentos\\Cursos\\Cursos Udemy\\Java\\Nomes.txt";
+        String path = "C:\\Nomes.txt";
         
         try(BufferedReader br = new BufferedReader(new FileReader(path))){
             String pessoaCsv = br.readLine();
