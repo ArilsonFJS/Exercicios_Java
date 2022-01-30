@@ -12,7 +12,8 @@ import model.entidades.Rectangle;
 
 /**
  *
- * @author arils
+ * @author arils 
+ * 
  */
 public class MainShape2 {
     
