@@ -36,7 +36,7 @@ public class MainOrdenaNomes {
             Collections.sort(list);
             
             for(Pessoas p : list){
-                System.out.println(p.getName() + ", " + String.format("%.2f", p.getSalario()));
+                System.out.println(p.getNome() + ", " + String.format("%.2f", p.getSalario()));
             }
         }catch(IOException e){
             System.out.println("Error: " + e.getMessage());

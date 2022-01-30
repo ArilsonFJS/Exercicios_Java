@@ -10,21 +10,20 @@ package model.entidades;
  * @author arils
  */
 public class Pessoas implements Comparable <Pessoas>{
-    
     private String nome;
     private Double salario;
 
-    public Pessoas(String name, Double salario) {
-        this.nome = name;
+    public Pessoas(String nome, Double salario) {
+        this.nome = nome;
         this.salario = salario;
     }
 
-    public String getName() {
+    public String getNome() {
         return nome;
     }
 
-    public void setName(String name) {
-        this.nome = name;
+    public void setNome(String nome) {
+        this.nome = nome;
     }
 
     public Double getSalario() {
@@ -37,7 +36,9 @@ public class Pessoas implements Comparable <Pessoas>{
 
     @Override
     public int compareTo(Pessoas o) {
-        return  -salario.compareTo(o.getSalario());
+        
+        return salario.compareTo(o.getSalario());
     }
+    
     
 }
